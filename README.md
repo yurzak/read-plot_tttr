@@ -10,3 +10,4 @@ Key Features:
 
 Function for reading PicoQuant Unified TTTR Files written by Omri Bar-Elli and Ron Tenne using a demo code from PicoQuant.
 
+![Screen](https://user-images.githubusercontent.com/73600288/122318859-0e415d80-cf20-11eb-8198-c264d7f2c70c.PNG)
